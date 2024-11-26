@@ -29,7 +29,7 @@
 <h2 id="usage">Usage</h2>
 
 <ol>
-<li>Clone the repository: <code>git clone (link unavailable)</code></li>
+<li>Clone the repository: <code>git clone https://github.com/muhammadumermemon/ImageClassifier-TFLite-Kotlin.git</code></li>
 <li>Open the project in Android Studio</li>
 <li>Build and run the app on an Android device or emulator</li>
 <li>Use the app to classify images</li>
